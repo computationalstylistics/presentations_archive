@@ -780,12 +780,12 @@ ggplot(book_long,
 ## but...
 
 - the model gpt-oss:120b outperformed competition (so far)
-- on April 2, 2026: the Gemma4 family released
+- on April 2, 2026: the Gemma4 family released:
     - Gemma 4 26b
     - Gemma 4 31b
     - Gemma 4 e4b
     - Gemma 4 e2b
-- on April 3, 2026: the Qwen3.6 family released
+- on April 3, 2026: the Qwen3.6 family released:
     - Qwen 3.6 27b
     - Qwen 3.6 35b
 
