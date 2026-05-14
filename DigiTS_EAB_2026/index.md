@@ -29,11 +29,11 @@ format:
 
 ## objectives
 
-- **Objective 1**: To establish an excellent international research team for DigiTS.
-- **Objective 2**: To conduct excellent internationally visible research in text-based DH in collaboration with related institutes of UT.
-- **Objective 3**: To improve the quality and diversity of DH teaching and support at UT, training future DH scholars, helping collaborating units in implementing computational methods for text analysis and educating future GLAM professionals.
-- **Objective 4**: To contribute to the development and management of the text-based data infrastructure for Estonian LLMs.
-- **Objective 5**: To ensure sustainability of DigiTS results.
+1. To establish an excellent international research team for DigiTS.
+2. To conduct excellent internationally visible research in text-based DH in collaboration with related institutes of UT.
+3. To improve the quality and diversity of DH teaching and support at UT, training future DH scholars, helping collaborating units in implementing computational methods for text analysis and educating future GLAM professionals.
+4. To contribute to the development and management of the text-based data infrastructure for Estonian LLMs.
+5. To ensure sustainability of DigiTS results.
 
 
 # the team
@@ -96,7 +96,8 @@ format:
 - estDraCor launched
 - AI-teh seminars lanched
 - workshop on publication strategies
-- successful grant applications
+- Doctoral School in Network Analysis
+- further applications: new colleagues will join!
 
 
 ## ESSLI 2027
@@ -105,9 +106,11 @@ format:
 - 
 - 
 
+
 ## estDracor
 
 ![](files/estDraCor.png)
+
 
 
 
@@ -122,30 +125,41 @@ format:
 
 
 
-## publication strategy
+## publication strategy event
 
--
--
--
+- planned as a written Deliverable
+- turned to an open seminar
+- three invited speakers:
+    - Artjoms Šela (_Where to Publish?_)
+    - Alan Colin-Arce (_The HSS Commons_)
+    - Faraz Forghan Parast (_The Generative Turn_)
+- helped to define DigiTS strategy
 
 
-## new projects
 
-- MSCA proposal: new postdoc to join soon
-- ETAG proposal: pending
+## doctoral school
+
+- Doctoral School in Network Analysis
+- taught by the DigiTS team...
+- ... plus Matteo Romanello (ETH Zurich)
+- May 6-8, 2026, in Tartu
+- over 25 participants
+- lectures and hands-on sessions
+
+
 
 
 # advisory board 
 
 
-## events & opportunities
+## don't miss the fun
 
-- AI-teh
-- curriculum development
-- future phd positions
-- ESSLI: call for keynotes
-- go and teach a workshop
-- present at final conference
+- AI-teh: present your work!
+- curriculum development: please contribute!
+- future phd positions: tell your colleagues!
+- ESSLI: suggest a keynote speaker!
+- future workshops: consider teaching!
+- final conference: spread the word!
 
 
 
