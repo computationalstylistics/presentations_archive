@@ -216,10 +216,10 @@ DiagrammeR::grViz("digraph {
 # solution: avatar-2-pjm
 
 
-## Traditional approach
+## traditional approach
 
 - Linguistic annotation (POS-tagging, lemmatisation, etc.)
-- Word-by-word mapping: word embeddings + simple grammatical rules + heurisitcs
+- Word-by-word mapping: Word2Vec (word embeddings) + simple grammatical rules + heurisitcs
 - Low quality translation, resembling SJM (System językowo-migowy, artificial sign language)
 
 
@@ -241,7 +241,7 @@ DiagrammeR::grViz("digraph {
 - Three approaches to overcome the issue:
     - Data Augmentation (synthetic datasets to rescue)
     - Transfer Learning (train the model, and then fine-tune)
-    - Feature engineering (input based on traditional translation method)
+    - Hybrid approach (input based on traditional translation method)
 
 
 ## 800 manually annotated sentences
@@ -258,7 +258,7 @@ DiagrammeR::grViz("digraph {
 
 Transfer Learning:
 
-- training a model on a big yet genral dataset
+- training a model on a big yet general dataset
     - e.g., on 80,000 sentences from DSG corpus
 - fine-tuning using a target dataset
     - e.g. the 800 sentences in PJM
@@ -269,12 +269,20 @@ Data Augmentation:
 - by artificially copying original sentences...
 - ... with some random modifications introduced.
 - finally, training a model on the augmented dataset
+- 
 
+## final solution
 
+- both methods combined
+- first step: "traditional" Word2Vec (words embeddings) => preliminary translation
+- second step: preliminary translation => Transformer model => final translation
 
 
 ## does it work?
 
-![](files/avatar_evaluation.png)
+![](files/avatar_evaluation2.png)
 
+## thank you
+
+![](files/thanks.png)
 
