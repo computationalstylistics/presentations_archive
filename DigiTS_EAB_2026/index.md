@@ -92,7 +92,7 @@ format:
 
 ## beyond the grant proposal
 
-- ESSLI 2027 to hosted by UT
+- ESSLLI 2027 to hosted by UT
 - estDraCor launched
 - AI-teh seminars lanched
 - workshop on publication strategies
@@ -100,11 +100,14 @@ format:
 - further applications: new colleagues will join!
 
 
-## ESSLI 2027
 
-- 
-- 
-- 
+## ESSLLI 2027
+
+- European Summer School in Logic, Language and Information
+- 2-13 August 2027 in Tartu
+- in collaboration with Institute of Computer Science and the Insitute of the Estonian Language
+- 2 weeks of courses, workshops, lectures and social activities
+
 
 
 ## estDraCor
