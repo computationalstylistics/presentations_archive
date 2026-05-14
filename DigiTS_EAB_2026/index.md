@@ -180,8 +180,8 @@ format:
 - email: [digits@ut.ee](mailto:digits@ut.ee)
 - project office: Jakobi 2-426
 - research team office: Jakobi 2-131
-- homepage: [https://digits.ut.ee/en](https://digits.ut.ee/en)
-- Center for Digital Humanities homepage: [http://digihum.ut.ee/](http://digihum.ut.ee/)
+- homepage: [https://digits.ut.ee](https://digits.ut.ee)
+- Center for Digital Humanities homepage: [http://digihum.ut.ee/en/](http://digihum.ut.ee/en/)
 - DH center on Facebook: [https://www.facebook.com/profile.php?id=100060669771976](https://www.facebook.com/profile.php?id=100060669771976)
 - LinkedIn profile: [https://www.linkedin.com/company/utartu-digits/](https://www.linkedin.com/company/utartu-digits/)
 - bluesky profile: [https://bsky.app/profile/digitsut.bsky.social](https://bsky.app/profile/digitsut.bsky.social)
