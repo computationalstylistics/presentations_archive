@@ -118,7 +118,8 @@ format:
 
 ## AI-teh Seminar Series
 
-- Pun intended!
+- Pun intended:
+    - AI + “teh” (“tehisaru” artificial intelligence in Estonian). It also echoes aitäh (“thank you” in Estonian)
 - Monthly hybrid series on AI in Humanities and Social Sciences research
 - Practical demonstrations of AI in research workflows: data preparation, annotation, analysis, and beyond
 - Platform for sharing use cases, challenges, and lessons learned
