@@ -113,9 +113,12 @@ format:
 
 ## AI-teh
 
-- 
-- 
-- 
+- monthly seminar series
+- pun intended!
+- demonstrations of AI at any stage of research
+- so far: inaugural talk by Maciej
+- upcoming one: Andres Karjus
+- please contribute!
 
 
 
