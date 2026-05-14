@@ -107,21 +107,30 @@ format:
 - 
 
 
-## estDracor
+## estDraCor
 
 ![](files/estDraCor.png)
 
 
 
+## AI-teh Seminar Series
 
-## AI-teh
+- Pun intended!
+- Monthly hybrid series on AI in Humanities and Social Sciences research
+- Practical demonstrations of AI in research workflows: data preparation, annotation, analysis, and beyond
+- Platform for sharing use cases, challenges, and lessons learned
+- Encourages feedback, inspiration, and future collaboration
 
-- monthly seminar series
-- pun intended!
-- demonstrations of AI at any stage of research
-- so far: inaugural talk by Maciej
-- upcoming one: Andres Karjus
-- please contribute!
+
+## Seminars
+
+- First seminar, May 11: Maciej Eder — _Digital Humanities and AI: A Showcase_
+    - Case studies: sign language translation and historical bibliography analysis
+- Next seminar, June 8: Andres Karjus — _AI in Research: From Annotators to Assistants and Agents_
+- Continues in the Fall semester
+
+
+
 
 
 
