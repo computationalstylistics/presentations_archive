@@ -28,7 +28,7 @@ format:
     - regional differences
 - group of novels described as "urban" 
 - group of novels described as "regional"
-- Romanticism vs. Modernism being a strong factor, toof
+- Romanticism vs. Modernism being a strong factor, too
 - plus, a general language drift from 19th to 20th century is there
 
 
@@ -106,7 +106,7 @@ format:
 - 21 novels chunked into 1,000-word segments
 - NLP pre-processed with `udpipe`
     - all lemmatized
-    - NER removed
+    - Named Entities (=names) removed
     - allowed: nouns, verbs, adjective, adverbs
     - other grammatical categories removed
 - Latent Dirichlet Allocation (LDA)
@@ -139,7 +139,7 @@ format:
 - support vectors (_cf_ SVM)
 - features that survived penalization (_cf_ NSC)
 - loadings of a projected space (_cf_ PCA)
-- Shapley values 👈
+- Shapley values (SHAP values) 👈
 
 
 ## SHAP values
